@@ -1,5 +1,5 @@
 # Defining Key Name for connection
 variable "Keyname" {
-  default     = "newRegion-keypair" 
+  default     = "newKey" 
   description = "Name of AWS key pair"
 }
